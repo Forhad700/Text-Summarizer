@@ -1,4 +1,4 @@
-# Text Summarizer
+# Text Summarizer Assistant
 
 Text Summarizer Assistant is a **Generative AI** tool built on powerful language models that helps users distill large blocks of text into short, meaningful summaries — enhancing comprehension, speed and clarity. This project highlights the efficiency and power of modern AI in enhancing content consumption.
 
